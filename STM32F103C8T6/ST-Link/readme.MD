@@ -11,3 +11,6 @@ wiring:
 
 mini wiring:
 ![plot](./BluePill_as_StlinkMini.png)
+
+
+st-flash --debug write STLinkV2.J16.S4.bin 0x8000000
