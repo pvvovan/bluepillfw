@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.7-7.0.7~ubuntu22.04.1*%
-%TF.CreationDate,2023-08-26T22:49:03+02:00*%
+%TF.CreationDate,2023-08-27T08:37:14+02:00*%
 %TF.ProjectId,adaptor,61646170-746f-4722-9e6b-696361645f70,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.7-7.0.7~ubuntu22.04.1) date 2023-08-26 22:49:03*
+G04 Created by KiCad (PCBNEW 7.0.7-7.0.7~ubuntu22.04.1) date 2023-08-27 08:37:14*
 %MOMM*%
 %LPD*%
 G01*
@@ -93,15 +93,6 @@ X167460000Y-64000000D03*
 %TO.N,unconnected-(J2-Pin_20-Pad20)*%
 X170000000Y-64000000D03*
 %TD*%
-D12*
-%TO.P,R1,1*%
-%TO.N,/SWDIO*%
-X126750000Y-75290000D03*
-D13*
-%TO.P,R1,2*%
-%TO.N,Net-(J1-Pin_1)*%
-X121670000Y-75290000D03*
-%TD*%
 D10*
 %TO.P,J1,1,Pin_1*%
 %TO.N,Net-(J1-Pin_1)*%
@@ -164,6 +155,15 @@ X167460000Y-79000000D03*
 %TO.P,J1,20,Pin_20*%
 %TO.N,unconnected-(J1-Pin_20-Pad20)*%
 X170000000Y-79000000D03*
+%TD*%
+D12*
+%TO.P,R1,1*%
+%TO.N,/SWDIO*%
+X126750000Y-75290000D03*
+D13*
+%TO.P,R1,2*%
+%TO.N,Net-(J1-Pin_1)*%
+X121670000Y-75290000D03*
 %TD*%
 D10*
 %TO.P,J3,1,Pin_1*%
