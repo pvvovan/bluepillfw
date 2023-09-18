@@ -3,4 +3,6 @@ https://www.mouser.se/ProductDetail/Molex/48037-2200?qs=naUSJSqnqcIBwHMiwQ2VeA%3
 C8598 Diod
 C132629 3.3V
 C8734 MCU
+C15850 10uF
+C24497 100nF
 
