@@ -1,22 +1,15 @@
-"Reference","Value","Footprint","JLC #","Qty"
-"C1","100n","Capacitor_SMD:C_1206_3216Metric","C24497","1"
-"C2","10u","Capacitor_SMD:C_0805_2012Metric","C15850","1"
-"C3-C7","100n","Capacitor_SMD:C_0603_1608Metric","C14663","5"
-"C8, C9","27p","Capacitor_SMD:C_0402_1005Metric","C1557","2"
-"D1","D_Schottky","Diode_SMD:D_SOD-123","C8598","1"
-"D2","RED","LED_SMD:LED_0805_2012Metric","C84256","1"
-"D3","YELLOW","LED_SMD:LED_0805_2012Metric","C2296","1"
-"H1-H3","MountingHole_Pad","MountingHole:MountingHole_4.3mm_M4_Pad_Via","","3"
-"IC1","LD1117DT33TR","Library:TO228P972X240-3N","C132629","1"
-"J1","0480372200","Library:0480372200","","1"
-"J2","Conn_01x02_Socket","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","","1"
-"J3","Conn_02x05_Odd_Even","Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD","C2881910","1"
-"J5","Conn_01x16_Pin","Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical","","1"
-"J7","Conn_01x04_Pin","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical","","1"
-"J8","Conn_01x05_Socket","Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical","","1"
-"J9","Conn_01x17_Pin","Connector_PinHeader_2.54mm:PinHeader_1x17_P2.54mm_Vertical","","1"
-"R1, R2, R4, R5","1k5","Resistor_SMD:R_0805_2012Metric","C4310","4"
-"R3","47","Resistor_SMD:R_0402_1005Metric","C25118","1"
-"R6","220","Resistor_SMD:R_1206_3216Metric","C2078575","1"
-"U1","STM32F103C8T6","Package_QFP:LQFP-48_7x7mm_P0.5mm","C8734","1"
-"Y1","8MHz 20pF","Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm","C115962","1"
+Comment,Designator,Footprint,JLCPCB Part#
+100n,C1,Capacitor_SMD:C_1206_3216Metric,C24497
+10u,C2,Capacitor_SMD:C_0805_2012Metric,C15850
+100n,"C3, C4, C5, C6, C7",Capacitor_SMD:C_0603_1608Metric,C14663
+27p,"C8, C9",Capacitor_SMD:C_0402_1005Metric,C1557
+D_Schottky,D1,Diode_SMD:D_SOD-123,C8598
+RED,D2,LED_SMD:LED_0805_2012Metric,C84256
+YELLOW,D3,LED_SMD:LED_0805_2012Metric,C2296
+LD1117DT33TR,IC1,Library:TO228P972X240-3N,C132629
+Conn_02x05_Odd_Even,J3,Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD,C2881910
+1k5,"R1, R2, R4, R5",Resistor_SMD:R_0805_2012Metric,C4310
+47,R3,Resistor_SMD:R_0402_1005Metric,C25118
+220,R6,Resistor_SMD:R_1206_3216Metric,C2078575
+STM32F103C8T6,U1,Package_QFP:LQFP-48_7x7mm_P0.5mm,C8734
+8MHz 20pF,Y1,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm,C115962
