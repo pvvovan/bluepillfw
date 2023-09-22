@@ -1,4 +1,4 @@
-21929608871827451
+21931304275404274
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63580,6 +63580,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+MyLib
+Molex_USB_A
+Molex_USB_A
+Connector
+0
+8
+8
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
