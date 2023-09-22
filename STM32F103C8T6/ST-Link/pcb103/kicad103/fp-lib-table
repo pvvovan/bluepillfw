@@ -1,5 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Library")(type "KiCad")(uri "/home/vovan/repos/bluepillfw/STM32F103C8T6/ST-Link/pcb103/mouser/lib/Library.pretty")(options "")(descr ""))
   (lib (name "MyLib")(type "KiCad")(uri "${KIPRJMOD}/CustomLib/MyLib.pretty")(options "")(descr ""))
 )

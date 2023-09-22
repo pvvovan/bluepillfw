@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "New_Library")(type "KiCad")(uri "/home/vovan/repos/bluepillfw/STM32F103C8T6/ST-Link/pcb103/mouser/lib/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "MyLib")(type "KiCad")(uri "${KIPRJMOD}/CustomLib/MyLib.kicad_sym")(options "")(descr ""))
 )
